@@ -1,0 +1,35 @@
+{
+    "elems": {
+        "iter_00000_step_00001_38_android.widget.Button.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00003_18_android.widget.EditText.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00007_22_android.widget.EditText.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00009_30_android.widget.Button.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00015_22_android.view.ViewGroup.png": [
+            "lnk_purina_pro_cats"
+        ], 
+        "iter_00000_step_00018_16_android.widget.TextView.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00018_48_android.widget.TextView.png": [
+            "lnk_cat"
+        ], 
+        "iter_00000_step_00021_31_android.widget.TextView.png": [
+            "lnk_food"
+        ], 
+        "iter_00000_step_00023_35_android.widget.TextView.png": [
+            "lnk_wet_food"
+        ], 
+        "iter_00000_step_00025_39_android.widget.TextView.png": [
+            "lnk_variety_packs"
+        ]
+    }, 
+    "screens": {}
+}

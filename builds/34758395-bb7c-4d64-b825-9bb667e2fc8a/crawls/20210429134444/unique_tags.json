@@ -1,0 +1,9 @@
+[
+    "android.widget.FrameLayout", 
+    "android.widget.ImageView", 
+    "android.widget.LinearLayout", 
+    "android.widget.ProgressBar", 
+    "android.widget.ScrollView", 
+    "android.widget.TextView", 
+    "TemplateMatchElement"
+]

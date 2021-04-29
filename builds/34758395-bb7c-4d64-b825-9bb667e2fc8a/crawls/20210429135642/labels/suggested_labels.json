@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00003_17_android.widget.FrameLayout.png": {
+            "inp_email": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00015_23_android.widget.TextView.png": {
+            "lnk_purina_pro_cats": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}

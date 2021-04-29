@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00001_16_android.widget.TextView.png": {
+            "inp_search": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00001_38_android.widget.Button.png": {
+            "btn_sign_in": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
+    "screens": {}
+}

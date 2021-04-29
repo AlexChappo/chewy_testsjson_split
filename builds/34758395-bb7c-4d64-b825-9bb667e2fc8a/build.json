@@ -1,0 +1,9 @@
+{
+    "_id": "34758395-bb7c-4d64-b825-9bb667e2fc8a", 
+    "app": "/root/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/app/com.chewy.android-1.apk", 
+    "app_id": "7335e72d-27ee-428c-b81e-dde278a19ae3", 
+    "created": "2021-04-29 13:36:33.197971", 
+    "package": "com.chewy.android", 
+    "platform": "android", 
+    "version": "1"
+}
