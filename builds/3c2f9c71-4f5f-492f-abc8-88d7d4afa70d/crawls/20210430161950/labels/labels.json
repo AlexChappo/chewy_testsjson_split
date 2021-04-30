@@ -1,0 +1,29 @@
+{
+    "elems": {
+        "iter_00000_step_00007_35_android.widget.TextView.png": [
+            "lnk_dry_food"
+        ], 
+        "iter_00000_step_00014_31_android.widget.TextView.png": [
+            "lnk_brand"
+        ], 
+        "iter_00000_step_00015_53_android.view.ViewGroup.png": [
+            "lnk_pet_life"
+        ], 
+        "iter_00000_step_00021_26_android.view.ViewGroup.png": [
+            "lnk_pet_life"
+        ], 
+        "iter_00000_step_00023_43_android.widget.TextView.png": [
+            "lnk_adult"
+        ], 
+        "iter_00000_step_00025_62_android.widget.ImageView.png": [
+            "lnk_blue_buffalo"
+        ], 
+        "iter_00000_step_00025_71_android.widget.Button.png": [
+            "btn_filter"
+        ], 
+        "iter_00000_step_00028_57_android.widget.Button.png": [
+            "lnk_add_to_cart"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,8 +1,7 @@
 {
-    "Order Cat Food": {
+    "dog food": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "Order Cat Food", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -12,7 +11,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_cat"
+                    "lnk_dog"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -40,7 +39,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_wet_food"
+                    "lnk_dry_food"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -54,7 +53,35 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_variety_packs"
+                    "lnk_adult"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_blue_buffalo"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_add_to_cart"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -62,7 +89,7 @@
             }
         ], 
         "tags": [], 
-        "temp_id": "dfb722d0-a8f3-11eb-8d83-0242ac120002", 
-        "title": "Order Cat Food"
+        "temp_id": "507c3cf3-a9ef-11eb-b6df-149d997fd38b", 
+        "title": "dog food"
     }
 }
