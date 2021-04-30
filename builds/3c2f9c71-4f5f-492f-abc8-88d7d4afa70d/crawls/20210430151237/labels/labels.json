@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00001_16_android.widget.TextView.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00003_17_android.widget.TextView.png": [
+            "txt_search_result_cat_litter"
+        ], 
+        "iter_00000_step_00007_61_android.widget.Button.png": [
+            "btn_filter"
+        ], 
+        "iter_00000_step_00009_18_android.widget.TextView.png": [
+            "txt_sort_results"
+        ], 
+        "iter_00000_step_00012_21_android.widget.RadioButton.png": [
+            "btn_radio_price_low"
+        ]
+    }, 
+    "screens": {}
+}

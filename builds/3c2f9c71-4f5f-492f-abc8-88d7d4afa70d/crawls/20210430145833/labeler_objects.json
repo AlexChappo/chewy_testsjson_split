@@ -1,0 +1,1259 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_10_android.widget.ImageButton.png": "iter_00000_step_00000_10_android.widget.ImageButton.png", 
+            "iter_00000_step_00000_11_android.widget.ImageView.png": "iter_00000_step_00000_11_android.widget.ImageView.png", 
+            "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png": "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png": "iter_00000_step_00000_13_android.widget.TextView.png", 
+            "iter_00000_step_00000_14_android.view.ViewGroup.png": "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_15_android.widget.ImageView.png": "iter_00000_step_00000_15_android.widget.ImageView.png", 
+            "iter_00000_step_00000_16_android.widget.TextView.png": "iter_00000_step_00000_16_android.widget.TextView.png", 
+            "iter_00000_step_00000_17_android.widget.ImageButton.png": "iter_00000_step_00000_17_android.widget.ImageButton.png", 
+            "iter_00000_step_00000_18_android.widget.ImageButton.png": "iter_00000_step_00000_18_android.widget.ImageButton.png", 
+            "iter_00000_step_00000_19_android.widget.FrameLayout.png": "iter_00000_step_00000_21_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png": "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_20_android.view.ViewGroup.png": "iter_00000_step_00000_20_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_21_android.widget.FrameLayout.png": "iter_00000_step_00000_21_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png": "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png": "iter_00000_step_00000_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_24_android.widget.TextView.png": "iter_00000_step_00000_24_android.widget.TextView.png", 
+            "iter_00000_step_00000_25_android.view.ViewGroup.png": "iter_00000_step_00000_25_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_26_android.widget.TextView.png": "iter_00000_step_00000_26_android.widget.TextView.png", 
+            "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png": "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00000_28_android.widget.FrameLayout.png": "iter_00000_step_00000_28_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_29_android.widget.ImageView.png": "iter_00000_step_00000_29_android.widget.ImageView.png", 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_30_android.widget.FrameLayout.png": "iter_00000_step_00000_30_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_31_android.widget.ImageView.png": "iter_00000_step_00000_31_android.widget.ImageView.png", 
+            "iter_00000_step_00000_32_android.widget.TextView.png": "iter_00000_step_00000_32_android.widget.TextView.png", 
+            "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png": "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png", 
+            "iter_00000_step_00000_34_android.view.ViewGroup.png": "iter_00000_step_00000_34_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_35_android.widget.ImageView.png": "iter_00000_step_00000_35_android.widget.ImageView.png", 
+            "iter_00000_step_00000_36_android.widget.TextView.png": "iter_00000_step_00000_36_android.widget.TextView.png", 
+            "iter_00000_step_00000_37_android.widget.TextView.png": "iter_00000_step_00000_37_android.widget.TextView.png", 
+            "iter_00000_step_00000_38_android.widget.Button.png": "iter_00000_step_00000_38_android.widget.Button.png", 
+            "iter_00000_step_00000_39_android.view.View.png": "iter_00000_step_00000_39_android.view.View.png", 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png": "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png", 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png": "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_7_android.widget.LinearLayout.png": "iter_00000_step_00000_7_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_8_android.widget.LinearLayout.png": "iter_00000_step_00000_8_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png": "iter_00000_step_00000_9_android.view.ViewGroup.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_10_android.widget.ImageButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_android.widget.ImageButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageButton", 
+                    "hash": "FeZE6Vnnu5k5iA7yx6RZqQ==\n", 
+                    "height": 154, 
+                    "human_hash": "android.widget.ImageButton_X0_Y171_W154_H154", 
+                    "tag_name": "android.widget.ImageButton", 
+                    "text": "", 
+                    "width": 154, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "imagebutton", 
+                    "android.widget.imagebutton", 
+                    "all_elems", 
+                    "image"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_11_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "rFjn5VWIiPzQcieKMyMa+w==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.ImageView_X198_Y215_W220_H66", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 220, 
+                    "x": 198, 
+                    "y": 215
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.appcompat.widget.g0", 
+                    "hash": "bn5ECt6FFCOtROnzA2Er9Q==\n", 
+                    "height": 154, 
+                    "human_hash": "androidx.appcompat.widget.g0_X948_Y171_W132_H154", 
+                    "tag_name": "androidx.appcompat.widget.g0", 
+                    "text": "", 
+                    "width": 132, 
+                    "x": 948, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "androidx.appcompat.widget.g0", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "X+kzAAR/s9TYFqJOpvG8Kg==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.TextView_X948_Y182_W132_H132", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "", 
+                    "width": 132, 
+                    "x": 948, 
+                    "y": 182
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_14_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "2fCOh5S7xduPKVycLRgLhg==\n", 
+                    "height": 154, 
+                    "human_hash": "android.view.ViewGroup_X22_Y325_W1036_H154", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Find the best for your pet", 
+                    "width": 1036, 
+                    "x": 22, 
+                    "y": 325
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet"
+                ]
+            }, 
+            "iter_00000_step_00000_15_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "SDYmkseCfptNKcGsedMHOQ==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.ImageView_X44_Y369_W66_H66", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 66, 
+                    "x": 44, 
+                    "y": 369
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_16_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "IlLBN65huyHoyvgm/9FJfg==\n", 
+                    "height": 59, 
+                    "human_hash": "android.widget.TextView_X176_Y373_W596_H59", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Find the best for your pet", 
+                    "width": 596, 
+                    "x": 176, 
+                    "y": 373
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet"
+                ]
+            }, 
+            "iter_00000_step_00000_17_android.widget.ImageButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_17_android.widget.ImageButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageButton", 
+                    "hash": "5RJKHilnIMlG7odN2xFdsA==\n", 
+                    "height": 154, 
+                    "human_hash": "android.widget.ImageButton_X794_Y325_W132_H154", 
+                    "tag_name": "android.widget.ImageButton", 
+                    "text": "", 
+                    "width": 132, 
+                    "x": 794, 
+                    "y": 325
+                }, 
+                "tags": [
+                    "imagebutton", 
+                    "android.widget.imagebutton", 
+                    "all_elems", 
+                    "image"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_18_android.widget.ImageButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_18_android.widget.ImageButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageButton", 
+                    "hash": "uQ+ZrIpzg0ecDaE1MIgzvg==\n", 
+                    "height": 154, 
+                    "human_hash": "android.widget.ImageButton_X926_Y325_W132_H154", 
+                    "tag_name": "android.widget.ImageButton", 
+                    "text": "", 
+                    "width": 132, 
+                    "x": 926, 
+                    "y": 325
+                }, 
+                "tags": [
+                    "imagebutton", 
+                    "android.widget.imagebutton", 
+                    "all_elems", 
+                    "image"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_20_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_20_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "ZpwGMiBZZ2UH6WnLmSezwg==\n", 
+                    "height": 1476, 
+                    "human_hash": "android.view.ViewGroup_X0_Y501_W1080_H1476", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them. Sign In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 501
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_21_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_21_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_19_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "SPXr7omwadYGr7NObM0aaA==\n", 
+                    "height": 1476, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y501_W1080_H1476", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them. Sign In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 501
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.recyclerview.widget.RecyclerView", 
+                    "hash": "JSQl4Wfp3lDTWJ7nkHTT7A==\n", 
+                    "height": 1476, 
+                    "human_hash": "androidx.recyclerview.widget.RecyclerView_X0_Y501_W1080_H1476", 
+                    "tag_name": "androidx.recyclerview.widget.RecyclerView", 
+                    "text": "Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them.", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 501
+                }, 
+                "tags": [
+                    "androidx.recyclerview.widget.recyclerview", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them."
+                ]
+            }, 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_23_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "N19tTwvsCQMFb7k1ikM8og==\n", 
+                    "height": 116, 
+                    "human_hash": "android.view.ViewGroup_X0_Y501_W1080_H116", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Save 30% on your first ", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 501
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Save_30%_on_your_first_"
+                ]
+            }, 
+            "iter_00000_step_00000_24_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_24_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "3MjN40e/dj+nMjomB/ZeFw==\n", 
+                    "height": 72, 
+                    "human_hash": "android.widget.TextView_X33_Y523_W1025_H72", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Save 30% on your first ", 
+                    "width": 1025, 
+                    "x": 33, 
+                    "y": 523
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Save_30%_on_your_first_"
+                ]
+            }, 
+            "iter_00000_step_00000_25_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_25_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "m+nwRiLmgU7H2bBIZ5aVGg==\n", 
+                    "height": 542, 
+                    "human_hash": "android.view.ViewGroup_X0_Y639_W1080_H542", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "DISCOVER WHAT'S NEW", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 639
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "DISCOVER_WHAT'S_NEW"
+                ]
+            }, 
+            "iter_00000_step_00000_26_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_26_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "p+4LVbdYCGtXVFxs9USe7w==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.TextView_X33_Y639_W1047_H66", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "DISCOVER WHAT'S NEW", 
+                    "width": 1047, 
+                    "x": 33, 
+                    "y": 639
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "DISCOVER_WHAT'S_NEW"
+                ]
+            }, 
+            "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.recyclerview.widget.RecyclerView", 
+                    "hash": "9YB+SmQfXlDbqejL6DMBZg==\n", 
+                    "height": 476, 
+                    "human_hash": "androidx.recyclerview.widget.RecyclerView_X0_Y705_W1080_H476", 
+                    "tag_name": "androidx.recyclerview.widget.RecyclerView", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 705
+                }, 
+                "tags": [
+                    "androidx.recyclerview.widget.recyclerview", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_28_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_28_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "f9KzSuNcehcn5/w88owxYw==\n", 
+                    "height": 432, 
+                    "human_hash": "android.widget.FrameLayout_X33_Y727_W864_H432", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 864, 
+                    "x": 33, 
+                    "y": 727
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_29_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_29_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "dSoXfYj76NMzyZaBNa6F0Q==\n", 
+                    "height": 432, 
+                    "human_hash": "android.widget.ImageView_X33_Y727_W864_H432", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 864, 
+                    "x": 33, 
+                    "y": 727
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_30_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_30_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "zl9mkKzXsPVF7RYp2lL0PQ==\n", 
+                    "height": 432, 
+                    "human_hash": "android.widget.FrameLayout_X919_Y727_W161_H432", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 161, 
+                    "x": 919, 
+                    "y": 727
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_31_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_31_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "36jTFlXREaHl3fVN0shDqQ==\n", 
+                    "height": 432, 
+                    "human_hash": "android.widget.ImageView_X919_Y727_W161_H432", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 161, 
+                    "x": 919, 
+                    "y": 727
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_32_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_32_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "LtV81yhv9LxAo9X8sF/1rQ==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.TextView_X33_Y1203_W224_H66", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "MY PETS", 
+                    "width": 224, 
+                    "x": 33, 
+                    "y": 1203
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "MY_PETS"
+                ]
+            }, 
+            "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.cardview.widget.CardView", 
+                    "hash": "u6J3ZM9hAK32ttnmNzr2dQ==\n", 
+                    "height": 686, 
+                    "human_hash": "androidx.cardview.widget.CardView_X33_Y1291_W1014_H686", 
+                    "tag_name": "androidx.cardview.widget.CardView", 
+                    "text": "Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them.", 
+                    "width": 1014, 
+                    "x": 33, 
+                    "y": 1291
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "androidx.cardview.widget.cardview"
+                ], 
+                "text": [
+                    "Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them."
+                ]
+            }, 
+            "iter_00000_step_00000_34_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_34_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "DMnxkyriTP3amtVWCG3ydg==\n", 
+                    "height": 686, 
+                    "human_hash": "android.view.ViewGroup_X33_Y1291_W1014_H686", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them.", 
+                    "width": 1014, 
+                    "x": 33, 
+                    "y": 1291
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them."
+                ]
+            }, 
+            "iter_00000_step_00000_35_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_35_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "j8hctkieB4y0qcWh/k+nVg==\n", 
+                    "height": 594, 
+                    "human_hash": "android.widget.ImageView_X33_Y1291_W1014_H594", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 1014, 
+                    "x": 33, 
+                    "y": 1291
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_36_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_36_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "e0GBhWScGm7zbN0+mpKhTQ==\n", 
+                    "height": 48, 
+                    "human_hash": "android.widget.TextView_X77_Y1929_W926_H48", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Create Your Pet's Profile", 
+                    "width": 926, 
+                    "x": 77, 
+                    "y": 1929
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Create_Your_Pet's_Profile"
+                ]
+            }, 
+            "iter_00000_step_00000_37_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_37_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "aR8a/IITCZ/+LpfEgHCs1Q==\n", 
+                    "height": 138, 
+                    "human_hash": "android.widget.TextView_X77_Y2010_W926_H138", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them.", 
+                    "width": 926, 
+                    "x": 77, 
+                    "y": 2010
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them."
+                ]
+            }, 
+            "iter_00000_step_00000_38_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_38_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "7jg5tBjUhiOL/n+iUotSdw==\n", 
+                    "height": 27, 
+                    "human_hash": "android.widget.Button_X375_Y1950_W330_H27", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Sign In", 
+                    "width": 330, 
+                    "x": 375, 
+                    "y": 1950
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_39_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_39_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "ECA6zajBlSxZ3HWDRcn87A==\n", 
+                    "height": 171, 
+                    "human_hash": "android.view.View_X0_Y0_W1080_H171", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "MYBDL984sVO0ZhqHMm+TKw==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Find the best for your pet Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them. Sign In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet_Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "xRc2ymth72DgYCnzOUE5MA==\n", 
+                    "height": 1977, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Find the best for your pet Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them. Sign In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet_Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.drawerlayout.widget.DrawerLayout", 
+                    "hash": "FR2J6327FzIKn9aYMEHjPg==\n", 
+                    "height": 1977, 
+                    "human_hash": "androidx.drawerlayout.widget.DrawerLayout_X0_Y0_W1080_H1977", 
+                    "tag_name": "androidx.drawerlayout.widget.DrawerLayout", 
+                    "text": "Find the best for your pet Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them. Sign In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "androidx.drawerlayout.widget.drawerlayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet_Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "NyQZrwQFh2qllgr4Jl7HzA==\n", 
+                    "height": 1806, 
+                    "human_hash": "android.view.ViewGroup_X0_Y171_W1080_H1806", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Find the best for your pet Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them. Sign In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet_Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_7_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "IeUYByf2lNv8DTm3sO+egg==\n", 
+                    "height": 1806, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y171_W1080_H1806", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Find the best for your pet Save 30% on your first  DISCOVER WHAT'S NEW MY PETS Create Your Pet's Profile From the chill weirdos to the total goofballs, every pet is unique. Tell us about yours, and we'll create a go-to space just for them. Sign In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet_Save_30%_on_your_first__DISCOVER_WHAT'S_NEW_MY_PETS_Create_Your_Pet's_Profile_From_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._Tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._Sign_In"
+                ]
+            }, 
+            "iter_00000_step_00000_8_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "XN3tu6C12XpzmvIJl5fNlw==\n", 
+                    "height": 330, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y171_W1080_H330", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Find the best for your pet", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Find_the_best_for_your_pet"
+                ]
+            }, 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "7P4pK+S6FeCPKM+PSl5kig==\n", 
+                    "height": 154, 
+                    "human_hash": "android.view.ViewGroup_X0_Y171_W1080_H154", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    ""
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png", 
+            "iter_00000_step_00000_7_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_21_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00000_20_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_34_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png", 
+            "iter_00000_step_00000_35_android.widget.ImageView.png", 
+            "iter_00000_step_00000_25_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00000_28_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_29_android.widget.ImageView.png", 
+            "iter_00000_step_00000_8_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_39_android.view.View.png", 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_37_android.widget.TextView.png", 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_24_android.widget.TextView.png", 
+            "iter_00000_step_00000_31_android.widget.ImageView.png", 
+            "iter_00000_step_00000_30_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_26_android.widget.TextView.png", 
+            "iter_00000_step_00000_36_android.widget.TextView.png", 
+            "iter_00000_step_00000_16_android.widget.TextView.png", 
+            "iter_00000_step_00000_10_android.widget.ImageButton.png", 
+            "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png", 
+            "iter_00000_step_00000_17_android.widget.ImageButton.png", 
+            "iter_00000_step_00000_18_android.widget.ImageButton.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png", 
+            "iter_00000_step_00000_32_android.widget.TextView.png", 
+            "iter_00000_step_00000_11_android.widget.ImageView.png", 
+            "iter_00000_step_00000_38_android.widget.Button.png", 
+            "iter_00000_step_00000_15_android.widget.ImageView.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_10_android.widget.ImageButton.png": [
+                "iter_00000_step_00000_10_android.widget.ImageButton.png"
+            ], 
+            "iter_00000_step_00000_11_android.widget.ImageView.png": [
+                "iter_00000_step_00000_11_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png": [
+                "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png"
+            ], 
+            "iter_00000_step_00000_13_android.widget.TextView.png": [
+                "iter_00000_step_00000_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_14_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_14_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_15_android.widget.ImageView.png": [
+                "iter_00000_step_00000_15_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00000_16_android.widget.TextView.png": [
+                "iter_00000_step_00000_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_17_android.widget.ImageButton.png": [
+                "iter_00000_step_00000_17_android.widget.ImageButton.png"
+            ], 
+            "iter_00000_step_00000_18_android.widget.ImageButton.png": [
+                "iter_00000_step_00000_18_android.widget.ImageButton.png"
+            ], 
+            "iter_00000_step_00000_20_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_20_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_21_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_21_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_19_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png": [
+                "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png"
+            ], 
+            "iter_00000_step_00000_23_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_23_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_24_android.widget.TextView.png": [
+                "iter_00000_step_00000_24_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_25_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_25_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_26_android.widget.TextView.png": [
+                "iter_00000_step_00000_26_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png": [
+                "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png"
+            ], 
+            "iter_00000_step_00000_28_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_28_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_29_android.widget.ImageView.png": [
+                "iter_00000_step_00000_29_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00000_30_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_30_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_31_android.widget.ImageView.png": [
+                "iter_00000_step_00000_31_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00000_32_android.widget.TextView.png": [
+                "iter_00000_step_00000_32_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png": [
+                "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png"
+            ], 
+            "iter_00000_step_00000_34_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_34_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_35_android.widget.ImageView.png": [
+                "iter_00000_step_00000_35_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00000_36_android.widget.TextView.png": [
+                "iter_00000_step_00000_36_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_37_android.widget.TextView.png": [
+                "iter_00000_step_00000_37_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_38_android.widget.Button.png": [
+                "iter_00000_step_00000_38_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00000_39_android.view.View.png": [
+                "iter_00000_step_00000_39_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png": [
+                "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png"
+            ], 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_6_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_7_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_7_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_8_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_8_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_9_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_9_android.view.ViewGroup.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_5_androidx.drawerlayout.widget.DrawerLayout.png", 
+                "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_7_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_8_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_10_android.widget.ImageButton.png", 
+                "iter_00000_step_00000_11_android.widget.ImageView.png", 
+                "iter_00000_step_00000_12_androidx.appcompat.widget.g0.png", 
+                "iter_00000_step_00000_13_android.widget.TextView.png", 
+                "iter_00000_step_00000_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_15_android.widget.ImageView.png", 
+                "iter_00000_step_00000_16_android.widget.TextView.png", 
+                "iter_00000_step_00000_17_android.widget.ImageButton.png", 
+                "iter_00000_step_00000_18_android.widget.ImageButton.png", 
+                "iter_00000_step_00000_21_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_20_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_21_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_22_androidx.recyclerview.widget.RecyclerView.png", 
+                "iter_00000_step_00000_23_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_24_android.widget.TextView.png", 
+                "iter_00000_step_00000_25_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_26_android.widget.TextView.png", 
+                "iter_00000_step_00000_27_androidx.recyclerview.widget.RecyclerView.png", 
+                "iter_00000_step_00000_28_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_29_android.widget.ImageView.png", 
+                "iter_00000_step_00000_30_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_31_android.widget.ImageView.png", 
+                "iter_00000_step_00000_32_android.widget.TextView.png", 
+                "iter_00000_step_00000_33_androidx.cardview.widget.CardView.png", 
+                "iter_00000_step_00000_34_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_35_android.widget.ImageView.png", 
+                "iter_00000_step_00000_36_android.widget.TextView.png", 
+                "iter_00000_step_00000_37_android.widget.TextView.png", 
+                "iter_00000_step_00000_38_android.widget.Button.png", 
+                "iter_00000_step_00000_39_android.view.View.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.widget.framelayout", 
+                    "android.widget.imageview", 
+                    "imagebutton", 
+                    "android.widget.imagebutton", 
+                    "androidx.recyclerview.widget.recyclerview", 
+                    "android.view.viewgroup", 
+                    "button", 
+                    "androidx.drawerlayout.widget.drawerlayout", 
+                    "androidx.cardview.widget.cardview", 
+                    "framelayout", 
+                    "android.widget.textview", 
+                    "all_screens", 
+                    "imageview", 
+                    "android.view.view", 
+                    "androidx.appcompat.widget.g0", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "save_30%_on_your_first__discover_what's_new_my_pets_create_your_pet's_profile_from_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them.", 
+                    "create_your_pet's_profile_from_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them.", 
+                    "save_30%_on_your_first__discover_what's_new_my_pets_create_your_pet's_profile_from_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._sign_in", 
+                    "discover_what's_new", 
+                    "my_pets", 
+                    "find_the_best_for_your_pet", 
+                    "sign_in", 
+                    "create_your_pet's_profile", 
+                    "save_30%_on_your_first_", 
+                    "find_the_best_for_your_pet_save_30%_on_your_first__discover_what's_new_my_pets_create_your_pet's_profile_from_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them._sign_in", 
+                    "from_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them."
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}
