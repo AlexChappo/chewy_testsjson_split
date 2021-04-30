@@ -1,0 +1,22 @@
+[
+    "android.view.View", 
+    "android.view.ViewGroup", 
+    "android.widget.Button", 
+    "android.widget.CheckBox", 
+    "android.widget.EditText", 
+    "android.widget.FrameLayout", 
+    "android.widget.HorizontalScrollView", 
+    "android.widget.ImageButton", 
+    "android.widget.ImageView", 
+    "android.widget.LinearLayout", 
+    "android.widget.RatingBar", 
+    "android.widget.Switch", 
+    "android.widget.TextView", 
+    "androidx.appcompat.app.a$c", 
+    "androidx.appcompat.widget.g0", 
+    "androidx.cardview.widget.CardView", 
+    "androidx.drawerlayout.widget.DrawerLayout", 
+    "androidx.recyclerview.widget.RecyclerView", 
+    "androidx.viewpager.widget.ViewPager", 
+    "TemplateMatchElement"
+]
