@@ -1,0 +1,89 @@
+2021-04-30 13:19:45,451 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Logging crawl output to /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/logs/test_run-20210430171945.log
+2021-04-30 13:19:45,451 INFO     test_ai_mod.carbon_tasks.regress_app_task -- regressing app: 7335e72d-27ee-428c-b81e-dde278a19ae3, build: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:19:45,561 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:19:45,562 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:19:45,567 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:19:45,640 INFO     test_ai_mod.carbon_tasks.regress_app_task -- max_steps: 10
+2021-04-30 13:19:45,640 INFO     test_ai_mod.carbon_tasks.regress_app_task -- rand_seed: 1619802997
+2021-04-30 13:19:45,641 INFO     test_ai_mod.carbon_tasks.regress_app_task -- test_wildcard: *
+2021-04-30 13:19:45,641 INFO     test_ai_mod.carbon_tasks.regress_app_task -- package: com.chewy.android
+2021-04-30 13:19:45,641 INFO     test_ai_mod.carbon_tasks.regress_app_task -- eyes_api_key: None
+2021-04-30 13:19:45,641 INFO     test_ai_mod.carbon_tasks.regress_app_task -- no_reinstall: False
+2021-04-30 13:19:45,641 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:19:45,645 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: Order Cat Food
+2021-04-30 13:19:45,646 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: Sign In
+2021-04-30 13:19:45,646 INFO     test_ai_mod.carbon_test_case.carbon_tests -- Found matching test: Order Cat Food
+2021-04-30 13:19:45,648 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:19:45,648 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Remote host address: http://localhost:8080
+2021-04-30 13:19:45,788 INFO     test_ai_mod.carbon_tasks.regress_app_task -- running regress for test case: Order Cat Food
+2021-04-30 13:19:45,788 INFO     test_ai_mod.carbon_tasks.regress_app_task -- steps required for test: 5
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_tasks.regress_app_task -- effective_max_steps: 5
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_explore.explore -- *                   BRAIN                    *
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:19:45,789 INFO     test_ai_mod.carbon_initialization.initialization -- Random seed: 1619802997
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_initialization.initialization --                   PACKAGE: com.chewy.android
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_initialization.initialization -- platform: ANDROID
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/test_runs/20210430131945
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_botio.bot_io -- retrieving bot IO for app: 7335e72d-27ee-428c-b81e-dde278a19ae3
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-04-30 13:19:45,790 INFO     test_ai_mod.carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/lkg/botio.json
+2021-04-30 13:19:45,791 INFO     test_ai_mod.carbon_botio.bot_io -- use_snapshot: False
+2021-04-30 13:19:45,791 INFO     test_ai_mod.carbon_botio.bot_io -- no botIO found for app: 7335e72d-27ee-428c-b81e-dde278a19ae3
+2021-04-30 13:19:45,791 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-30 13:19:45,792 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-30 13:19:45,792 INFO     test_ai_mod.carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-04-30 13:19:51,655 INFO     test_ai_mod.carbon_automation.driver -- Screen density: 1.0
+2021-04-30 13:19:51,655 INFO     test_ai_mod.carbon_utils.simulator_tools -- Attempting uninstall on app: com.chewy.android
+2021-04-30 13:19:52,398 INFO     test_ai_mod.carbon_utils.simulator_tools -- Installing app: http://localhost:5000/api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk
+2021-04-30 13:20:33,109 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:20:33,110 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:20:33,116 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:20:38,983 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:20:38,986 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:20:39,051 INFO     test_ai_mod.labeler.v1.test_runs -- resolved to: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/test_runs/20210429141722/tests/result_paths/Order Cat Food/iter_00000_step_00002_screenshot.png
+2021-04-30 13:20:39,051 INFO     test_ai_mod.labeler.v1.test_runs -- resolved to: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/test_runs/20210429141722/tests/result_paths/Order Cat Food/iter_00000_step_00000_screenshot.png
+2021-04-30 13:20:39,052 INFO     test_ai_mod.labeler.v1.test_runs -- resolved to: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/test_runs/20210429141722/tests/result_paths/Order Cat Food/iter_00000_step_00001_screenshot.png
+2021-04-30 13:20:39,052 INFO     test_ai_mod.labeler.v1.test_runs -- resolved to: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/test_runs/20210429141722/tests/result_paths/Order Cat Food/iter_00000_step_00003_screenshot.png
+2021-04-30 13:20:39,054 INFO     test_ai_mod.labeler.v1.test_runs -- resolved to: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/test_runs/20210429141722/tests/result_paths/Order Cat Food/iter_00000_step_00004_screenshot.png
+2021-04-30 13:20:46,839 INFO     test_ai_mod.carbon_utils.retry -- Try 0 failed: Error executing command, status code 400: Could not download remote app file.
+2021-04-30 13:21:44,201 INFO     test_ai_mod.carbon_utils.retry -- Try 1 failed: Error executing command, status code 400: Could not download remote app file.
+2021-04-30 13:22:43,750 INFO     test_ai_mod.carbon_utils.retry -- Try 2 failed: Error executing command, status code 400: Could not download remote app file.
+2021-04-30 13:22:51,757 ERROR    test_ai_mod.carbon_explore.explore -- unexpected error
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 188, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 200, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver.py", line 289, in driver.Driver.install_app
+  File "test_ai_mod/carbon_utils/retry.py", line 82, in retry.RetryDecorator.__call__.wrapped
+RetryError: Max tries 3 reached without success.
+2021-04-30 13:22:51,758 ERROR    test_ai_mod.carbon_test_case.test_utils -- ***********************************************************************
+2021-04-30 13:22:51,758 ERROR    test_ai_mod.carbon_test_case.test_utils -- * TEST FAILURE: Unexpected error Max tries 3 reached without success. *
+2021-04-30 13:22:51,758 ERROR    test_ai_mod.carbon_test_case.test_utils -- ***********************************************************************
+2021-04-30 13:22:51,762 INFO     test_ai_mod.carbon_explore.explore -- performing post-walk cleanup
+2021-04-30 13:22:51,762 ERROR    test_ai_mod.carbon_explore.explore -- Error terminating app: com.chewy.android
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 360, in explore.perform_walk
+AttributeError: 'NoneType' object has no attribute 'terminate_app'
+2021-04-30 13:22:51,763 INFO     test_ai_mod.carbon_utils.simulator_tools -- performing post-test cleanup
+2021-04-30 13:22:51,763 INFO     test_ai_mod.carbon_utils.simulator_tools -- calling driver.quit
+2021-04-30 13:22:51,763 INFO     test_ai_mod.carbon_utils.simulator_tools -- issue quitting driver: 'NoneType' object has no attribute 'quit'
+2021-04-30 13:22:51,764 ERROR    test_ai_mod.carbon_tasks.regress_app_task -- problem encountered executing test
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_tasks/regress_app_task.py", line 170, in regress_app_task._regress_app
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 15, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 12, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_explore/explore.py", line 355, in explore.perform_walk
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 188, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 200, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver.py", line 289, in driver.Driver.install_app
+  File "test_ai_mod/carbon_utils/retry.py", line 82, in retry.RetryDecorator.__call__.wrapped
+RetryError: Max tries 3 reached without success.
+2021-04-30 13:22:52,428 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Removing threaded log file handler for test run.

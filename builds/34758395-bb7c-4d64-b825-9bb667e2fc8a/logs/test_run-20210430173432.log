@@ -1,0 +1,180 @@
+2021-04-30 13:34:32,629 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Logging crawl output to /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/logs/test_run-20210430173432.log
+2021-04-30 13:34:32,629 INFO     test_ai_mod.carbon_tasks.regress_app_task -- regressing app: 7335e72d-27ee-428c-b81e-dde278a19ae3, build: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:32,652 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v1/c/testai/users HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,655 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs?expand_builds=true HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,661 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,667 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,697 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:32,699 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:32,700 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:32,700 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:32,700 INFO     test_ai_mod.carbon_utils.legacy_file_system_utils -- Could not find iter_num for app_id 7335e72d-27ee-428c-b81e-dde278a19ae3, test_run_id 20210430132731, test_case_id dfb722d0-a8f3-11eb-8d83-0242ac120002. Returning None.
+2021-04-30 13:34:32,701 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430132731?expand_builds=true HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,703 INFO     test_ai_mod.carbon_utils.legacy_file_system_utils -- Could not find iter_num for app_id 7335e72d-27ee-428c-b81e-dde278a19ae3, test_run_id 20210430131945, test_case_id dfb722d0-a8f3-11eb-8d83-0242ac120002. Returning None.
+2021-04-30 13:34:32,704 INFO     test_ai_mod.carbon_utils.legacy_file_system_utils -- Could not find iter_num for app_id 7335e72d-27ee-428c-b81e-dde278a19ae3, test_run_id 20210430132414, test_case_id dfb722d0-a8f3-11eb-8d83-0242ac120002. Returning None.
+2021-04-30 13:34:32,704 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430131945?expand_builds=true HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,704 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:32,705 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430132414?expand_builds=true HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,707 INFO     test_ai_mod.carbon_utils.legacy_file_system_utils -- Could not find iter_num for app_id 7335e72d-27ee-428c-b81e-dde278a19ae3, test_run_id 20210430132908, test_case_id ff75d220-a8f2-11eb-8e10-0242ac120002. Returning None.
+2021-04-30 13:34:32,707 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:32,708 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430132908?expand_builds=true HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,710 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210429141722?expand_builds=true HTTP/1.1[0m" 200 -
+2021-04-30 13:34:32,827 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:32] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-04-30 13:34:33,488 INFO     test_ai_mod.carbon_tasks.regress_app_task -- max_steps: 10
+2021-04-30 13:34:33,489 INFO     test_ai_mod.carbon_tasks.regress_app_task -- rand_seed: 1619804047
+2021-04-30 13:34:33,489 INFO     test_ai_mod.carbon_tasks.regress_app_task -- test_wildcard: *
+2021-04-30 13:34:33,490 INFO     test_ai_mod.carbon_tasks.regress_app_task -- package: com.chewy.android
+2021-04-30 13:34:33,490 INFO     test_ai_mod.carbon_tasks.regress_app_task -- eyes_api_key: None
+2021-04-30 13:34:33,490 INFO     test_ai_mod.carbon_tasks.regress_app_task -- no_reinstall: False
+2021-04-30 13:34:33,491 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:33,491 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: Order Cat Food
+2021-04-30 13:34:33,491 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: Sign In
+2021-04-30 13:34:33,491 INFO     test_ai_mod.carbon_test_case.carbon_tests -- Found matching test: Sign In
+2021-04-30 13:34:33,493 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 34758395-bb7c-4d64-b825-9bb667e2fc8a
+2021-04-30 13:34:33,493 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Remote host address: http://localhost:8080
+2021-04-30 13:34:33,998 INFO     test_ai_mod.carbon_tasks.regress_app_task -- running regress for test case: Sign In
+2021-04-30 13:34:33,998 INFO     test_ai_mod.carbon_tasks.regress_app_task -- steps required for test: 5
+2021-04-30 13:34:33,998 INFO     test_ai_mod.carbon_tasks.regress_app_task -- effective_max_steps: 5
+2021-04-30 13:34:33,998 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:34:33,999 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:34:33,999 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-04-30 13:34:33,999 INFO     test_ai_mod.carbon_explore.explore -- *                   BRAIN                    *
+2021-04-30 13:34:33,999 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-04-30 13:34:33,999 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:34:33,999 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-04-30 13:34:33,999 INFO     test_ai_mod.carbon_initialization.initialization -- Random seed: 1619804047
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_initialization.initialization --                   PACKAGE: com.chewy.android
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_initialization.initialization -- platform: ANDROID
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/test_runs/20210430133433
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_botio.bot_io -- retrieving bot IO for app: 7335e72d-27ee-428c-b81e-dde278a19ae3
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/lkg/botio.json
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_botio.bot_io -- use_snapshot: False
+2021-04-30 13:34:34,001 INFO     test_ai_mod.carbon_botio.bot_io -- no botIO found for app: 7335e72d-27ee-428c-b81e-dde278a19ae3
+2021-04-30 13:34:34,002 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-30 13:34:34,003 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-30 13:34:34,003 INFO     test_ai_mod.carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-04-30 13:34:34,003 INFO     test_ai_mod.carbon_automation.automator -- Creating Automator Singleton
+2021-04-30 13:34:34,003 INFO     test_ai_mod.carbon_automation.automator -- Using automator over http as execution platform
+2021-04-30 13:34:36,694 INFO     test_ai_mod.carbon_automation.driver -- Screen density: 1.0
+2021-04-30 13:34:36,695 INFO     test_ai_mod.carbon_utils.simulator_tools -- Attempting uninstall on app: com.chewy.android
+2021-04-30 13:34:37,317 INFO     test_ai_mod.carbon_utils.simulator_tools -- Installing app: http://localhost:5000/api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk
+2021-04-30 13:34:37,325 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,400 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,475 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,548 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,624 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,699 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,774 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,857 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:37,930 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:37] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,006 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,081 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,156 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,231 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,306 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,389 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,472 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,554 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,635 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,713 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,790 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,864 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:38,939 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:38] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,017 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,090 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,164 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,240 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,323 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,396 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,473 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,547 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,624 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,697 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,773 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,845 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,923 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:39,998 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:39] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,074 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,156 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,230 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,302 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,381 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,457 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,529 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,607 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,682 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,757 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,831 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,906 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:40,982 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:40] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,057 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,130 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,206 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,281 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,357 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,431 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,507 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,582 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,657 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,732 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,807 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,883 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:41,957 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:41] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,031 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,107 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,180 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,259 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,332 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,407 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,483 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,556 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,633 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,707 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,784 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,858 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:42,936 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:42] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,017 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,090 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,166 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,240 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,322 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,403 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,481 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,556 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,634 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,710 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,784 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,858 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:43,935 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:43] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,008 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,084 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,156 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,234 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,307 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,380 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,457 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,539 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,615 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,690 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,773 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,847 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,923 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:44,996 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:44] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,072 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,151 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,223 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,296 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,374 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,450 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,524 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,597 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,674 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,753 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,833 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,906 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:45,989 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:45] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:46,063 INFO     werkzeug -- 127.0.0.1 - - [30/Apr/2021 13:34:46] "[33mGET /api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk HTTP/1.1[0m" 404 -
+2021-04-30 13:34:46,133 INFO     test_ai_mod.console_ui.console -- Closing all sessions

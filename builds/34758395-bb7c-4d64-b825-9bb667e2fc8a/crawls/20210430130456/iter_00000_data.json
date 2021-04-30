@@ -1,0 +1,15 @@
+{
+    "desiredCaps": {
+        "app": "http://localhost:5000/api/v2/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/34758395-bb7c-4d64-b825-9bb667e2fc8a/download?ext=.apk", 
+        "appPackage": "com.chewy.android", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "device_id": "emulator-5554", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "physical device", 
+    "hostPlatformRelease": "19.6.0", 
+    "hostPlatformSystem": "Darwin"
+}

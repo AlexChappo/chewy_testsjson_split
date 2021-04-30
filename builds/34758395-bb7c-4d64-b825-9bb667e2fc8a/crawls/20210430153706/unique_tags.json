@@ -1,0 +1,8 @@
+[
+    "android.view.View", 
+    "android.widget.FrameLayout", 
+    "android.widget.LinearLayout", 
+    "android.widget.ProgressBar", 
+    "androidx.drawerlayout.widget.DrawerLayout", 
+    "TemplateMatchElement"
+]

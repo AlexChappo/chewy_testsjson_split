@@ -19482,28 +19482,28 @@
         "dupe_to_master_key": {
             "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
             "iter_00000_step_00001_screenshot.png": "iter_00000_step_00000_screenshot.png", 
-            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00002_screenshot.png", 
-            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00002_screenshot.png", 
-            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00004_screenshot.png", 
-            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00007_screenshot.png", 
             "iter_00000_step_00006_screenshot.png": "iter_00000_step_00006_screenshot.png", 
-            "iter_00000_step_00007_screenshot.png": "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00007_screenshot.png": "iter_00000_step_00007_screenshot.png", 
             "iter_00000_step_00008_screenshot.png": "iter_00000_step_00008_screenshot.png", 
             "iter_00000_step_00009_screenshot.png": "iter_00000_step_00008_screenshot.png", 
-            "iter_00000_step_00010_screenshot.png": "iter_00000_step_00010_screenshot.png", 
-            "iter_00000_step_00011_screenshot.png": "iter_00000_step_00010_screenshot.png", 
+            "iter_00000_step_00010_screenshot.png": "iter_00000_step_00011_screenshot.png", 
+            "iter_00000_step_00011_screenshot.png": "iter_00000_step_00011_screenshot.png", 
             "iter_00000_step_00012_screenshot.png": "iter_00000_step_00012_screenshot.png", 
             "iter_00000_step_00013_screenshot.png": "iter_00000_step_00013_screenshot.png", 
             "iter_00000_step_00014_screenshot.png": "iter_00000_step_00014_screenshot.png", 
             "iter_00000_step_00015_screenshot.png": "iter_00000_step_00015_screenshot.png", 
             "iter_00000_step_00016_screenshot.png": "iter_00000_step_00016_screenshot.png", 
-            "iter_00000_step_00017_screenshot.png": "iter_00000_step_00010_screenshot.png", 
-            "iter_00000_step_00018_screenshot.png": "iter_00000_step_00010_screenshot.png", 
+            "iter_00000_step_00017_screenshot.png": "iter_00000_step_00011_screenshot.png", 
+            "iter_00000_step_00018_screenshot.png": "iter_00000_step_00011_screenshot.png", 
             "iter_00000_step_00019_screenshot.png": "iter_00000_step_00019_screenshot.png", 
             "iter_00000_step_00020_screenshot.png": "iter_00000_step_00020_screenshot.png", 
             "iter_00000_step_00021_screenshot.png": "iter_00000_step_00020_screenshot.png", 
-            "iter_00000_step_00022_screenshot.png": "iter_00000_step_00022_screenshot.png", 
-            "iter_00000_step_00023_screenshot.png": "iter_00000_step_00022_screenshot.png", 
+            "iter_00000_step_00022_screenshot.png": "iter_00000_step_00023_screenshot.png", 
+            "iter_00000_step_00023_screenshot.png": "iter_00000_step_00023_screenshot.png", 
             "iter_00000_step_00024_screenshot.png": "iter_00000_step_00024_screenshot.png", 
             "iter_00000_step_00025_screenshot.png": "iter_00000_step_00024_screenshot.png", 
             "iter_00000_step_00026_screenshot.png": "iter_00000_step_00026_screenshot.png"
@@ -19551,7 +19551,7 @@
                 "iter_00000_step_00001_38_android.widget.Button.png", 
                 "iter_00000_step_00026_79_android.view.View.png"
             ], 
-            "iter_00000_step_00002_screenshot.png": [
+            "iter_00000_step_00003_screenshot.png": [
                 "iter_00000_step_00003_0_android.widget.FrameLayout.png", 
                 "iter_00000_step_00003_1_android.widget.LinearLayout.png", 
                 "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
@@ -19585,40 +19585,6 @@
                 "iter_00000_step_00009_30_android.widget.Button.png", 
                 "iter_00000_step_00003_31_android.view.View.png"
             ], 
-            "iter_00000_step_00004_screenshot.png": [
-                "iter_00000_step_00005_0_android.widget.FrameLayout.png", 
-                "iter_00000_step_00005_1_android.widget.LinearLayout.png", 
-                "iter_00000_step_00007_4_android.widget.FrameLayout.png", 
-                "iter_00000_step_00007_5_android.widget.LinearLayout.png", 
-                "iter_00000_step_00007_4_android.widget.FrameLayout.png", 
-                "iter_00000_step_00007_5_android.widget.LinearLayout.png", 
-                "iter_00000_step_00009_6_android.view.ViewGroup.png", 
-                "iter_00000_step_00009_7_android.widget.ImageButton.png", 
-                "iter_00000_step_00007_8_android.widget.FrameLayout.png", 
-                "iter_00000_step_00007_9_android.view.ViewGroup.png", 
-                "iter_00000_step_00007_10_android.widget.ScrollView.png", 
-                "iter_00000_step_00007_9_android.view.ViewGroup.png", 
-                "iter_00000_step_00009_12_android.widget.ImageView.png", 
-                "iter_00000_step_00009_13_android.widget.TextView.png", 
-                "iter_00000_step_00009_14_android.widget.TextView.png", 
-                "iter_00000_step_00007_15_android.view.ViewGroup.png", 
-                "iter_00000_step_00007_16_android.widget.LinearLayout.png", 
-                "iter_00000_step_00007_17_android.widget.FrameLayout.png", 
-                "iter_00000_step_00007_18_android.widget.EditText.png", 
-                "iter_00000_step_00009_19_android.widget.LinearLayout.png", 
-                "iter_00000_step_00007_20_android.widget.LinearLayout.png", 
-                "iter_00000_step_00007_21_android.widget.FrameLayout.png", 
-                "iter_00000_step_00007_22_android.widget.EditText.png", 
-                "iter_00000_step_00007_23_android.widget.FrameLayout.png", 
-                "iter_00000_step_00007_24_android.widget.ImageButton.png", 
-                "iter_00000_step_00009_25_android.widget.LinearLayout.png", 
-                "iter_00000_step_00009_26_android.widget.Button.png", 
-                "iter_00000_step_00009_27_android.view.ViewGroup.png", 
-                "iter_00000_step_00009_28_android.widget.Button.png", 
-                "iter_00000_step_00009_29_android.widget.FrameLayout.png", 
-                "iter_00000_step_00009_30_android.widget.Button.png", 
-                "iter_00000_step_00026_79_android.view.View.png"
-            ], 
             "iter_00000_step_00006_screenshot.png": [
                 "iter_00000_step_00007_0_android.widget.FrameLayout.png", 
                 "iter_00000_step_00007_1_android.widget.LinearLayout.png", 
@@ -19639,6 +19605,40 @@
                 "iter_00000_step_00006_16_android.widget.LinearLayout.png", 
                 "iter_00000_step_00006_17_android.widget.FrameLayout.png", 
                 "iter_00000_step_00006_18_android.widget.EditText.png", 
+                "iter_00000_step_00009_19_android.widget.LinearLayout.png", 
+                "iter_00000_step_00007_20_android.widget.LinearLayout.png", 
+                "iter_00000_step_00007_21_android.widget.FrameLayout.png", 
+                "iter_00000_step_00007_22_android.widget.EditText.png", 
+                "iter_00000_step_00007_23_android.widget.FrameLayout.png", 
+                "iter_00000_step_00007_24_android.widget.ImageButton.png", 
+                "iter_00000_step_00009_25_android.widget.LinearLayout.png", 
+                "iter_00000_step_00009_26_android.widget.Button.png", 
+                "iter_00000_step_00009_27_android.view.ViewGroup.png", 
+                "iter_00000_step_00009_28_android.widget.Button.png", 
+                "iter_00000_step_00009_29_android.widget.FrameLayout.png", 
+                "iter_00000_step_00009_30_android.widget.Button.png", 
+                "iter_00000_step_00026_79_android.view.View.png"
+            ], 
+            "iter_00000_step_00007_screenshot.png": [
+                "iter_00000_step_00007_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00007_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00007_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00007_5_android.widget.LinearLayout.png", 
+                "iter_00000_step_00007_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00007_5_android.widget.LinearLayout.png", 
+                "iter_00000_step_00009_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00009_7_android.widget.ImageButton.png", 
+                "iter_00000_step_00007_8_android.widget.FrameLayout.png", 
+                "iter_00000_step_00007_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00007_10_android.widget.ScrollView.png", 
+                "iter_00000_step_00007_9_android.view.ViewGroup.png", 
+                "iter_00000_step_00009_12_android.widget.ImageView.png", 
+                "iter_00000_step_00009_13_android.widget.TextView.png", 
+                "iter_00000_step_00009_14_android.widget.TextView.png", 
+                "iter_00000_step_00007_15_android.view.ViewGroup.png", 
+                "iter_00000_step_00007_16_android.widget.LinearLayout.png", 
+                "iter_00000_step_00007_17_android.widget.FrameLayout.png", 
+                "iter_00000_step_00007_18_android.widget.EditText.png", 
                 "iter_00000_step_00009_19_android.widget.LinearLayout.png", 
                 "iter_00000_step_00007_20_android.widget.LinearLayout.png", 
                 "iter_00000_step_00007_21_android.widget.FrameLayout.png", 
@@ -19687,7 +19687,7 @@
                 "iter_00000_step_00009_30_android.widget.Button.png", 
                 "iter_00000_step_00026_79_android.view.View.png"
             ], 
-            "iter_00000_step_00010_screenshot.png": [
+            "iter_00000_step_00011_screenshot.png": [
                 "iter_00000_step_00018_4_android.widget.FrameLayout.png", 
                 "iter_00000_step_00018_3_android.widget.LinearLayout.png", 
                 "iter_00000_step_00018_4_android.widget.FrameLayout.png", 
@@ -20091,7 +20091,7 @@
                 "iter_00000_step_00021_91_android.widget.Button.png", 
                 "iter_00000_step_00026_79_android.view.View.png"
             ], 
-            "iter_00000_step_00022_screenshot.png": [
+            "iter_00000_step_00023_screenshot.png": [
                 "iter_00000_step_00023_4_android.widget.FrameLayout.png", 
                 "iter_00000_step_00023_3_android.widget.LinearLayout.png", 
                 "iter_00000_step_00023_4_android.widget.FrameLayout.png", 
@@ -20383,13 +20383,13 @@
                     "from_the_chill_weirdos_to_the_total_goofballs,_every_pet_is_unique._tell_us_about_yours,_and_we'll_create_a_go-to_space_just_for_them."
                 ]
             }, 
-            "iter_00000_step_00002_screenshot.png": {
+            "iter_00000_step_00003_screenshot.png": {
                 "dupe_count": [
                     2
                 ], 
                 "dupes": [
-                    "iter_00000_step_00002_screenshot.png", 
-                    "iter_00000_step_00003_screenshot.png"
+                    "iter_00000_step_00003_screenshot.png", 
+                    "iter_00000_step_00002_screenshot.png"
                 ], 
                 "tags": [
                     "android.widget.button", 
@@ -20426,14 +20426,12 @@
                     "create_account"
                 ]
             }, 
-            "iter_00000_step_00004_screenshot.png": {
+            "iter_00000_step_00006_screenshot.png": {
                 "dupe_count": [
-                    3
+                    1
                 ], 
                 "dupes": [
-                    "iter_00000_step_00004_screenshot.png", 
-                    "iter_00000_step_00005_screenshot.png", 
-                    "iter_00000_step_00007_screenshot.png"
+                    "iter_00000_step_00006_screenshot.png"
                 ], 
                 "tags": [
                     "android.widget.button", 
@@ -20470,12 +20468,14 @@
                     "create_account"
                 ]
             }, 
-            "iter_00000_step_00006_screenshot.png": {
+            "iter_00000_step_00007_screenshot.png": {
                 "dupe_count": [
-                    1
+                    3
                 ], 
                 "dupes": [
-                    "iter_00000_step_00006_screenshot.png"
+                    "iter_00000_step_00007_screenshot.png", 
+                    "iter_00000_step_00004_screenshot.png", 
+                    "iter_00000_step_00005_screenshot.png"
                 ], 
                 "tags": [
                     "android.widget.button", 
@@ -20555,15 +20555,15 @@
                     "create_account"
                 ]
             }, 
-            "iter_00000_step_00010_screenshot.png": {
+            "iter_00000_step_00011_screenshot.png": {
                 "dupe_count": [
                     4
                 ], 
                 "dupes": [
-                    "iter_00000_step_00010_screenshot.png", 
                     "iter_00000_step_00011_screenshot.png", 
-                    "iter_00000_step_00017_screenshot.png", 
-                    "iter_00000_step_00018_screenshot.png"
+                    "iter_00000_step_00018_screenshot.png", 
+                    "iter_00000_step_00010_screenshot.png", 
+                    "iter_00000_step_00017_screenshot.png"
                 ], 
                 "tags": [
                     "android.widget.framelayout", 
@@ -20923,13 +20923,13 @@
                     "training_&_cleaning"
                 ]
             }, 
-            "iter_00000_step_00022_screenshot.png": {
+            "iter_00000_step_00023_screenshot.png": {
                 "dupe_count": [
                     2
                 ], 
                 "dupes": [
-                    "iter_00000_step_00022_screenshot.png", 
-                    "iter_00000_step_00023_screenshot.png"
+                    "iter_00000_step_00023_screenshot.png", 
+                    "iter_00000_step_00022_screenshot.png"
                 ], 
                 "tags": [
                     "horizontalscrollview", 
@@ -21119,16 +21119,16 @@
             "iter_00000_step_00020_screenshot.png", 
             "iter_00000_step_00024_screenshot.png", 
             "iter_00000_step_00026_screenshot.png", 
-            "iter_00000_step_00022_screenshot.png", 
+            "iter_00000_step_00023_screenshot.png", 
             "iter_00000_step_00014_screenshot.png", 
             "iter_00000_step_00016_screenshot.png", 
-            "iter_00000_step_00010_screenshot.png", 
+            "iter_00000_step_00011_screenshot.png", 
             "iter_00000_step_00000_screenshot.png", 
             "iter_00000_step_00012_screenshot.png", 
-            "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00007_screenshot.png", 
             "iter_00000_step_00008_screenshot.png", 
             "iter_00000_step_00006_screenshot.png", 
-            "iter_00000_step_00002_screenshot.png", 
             "iter_00000_step_00015_screenshot.png", 
             "iter_00000_step_00013_screenshot.png", 
             "iter_00000_step_00019_screenshot.png"
@@ -21138,27 +21138,27 @@
                 "iter_00000_step_00000_screenshot.png", 
                 "iter_00000_step_00001_screenshot.png"
             ], 
-            "iter_00000_step_00002_screenshot.png": [
-                "iter_00000_step_00002_screenshot.png", 
-                "iter_00000_step_00003_screenshot.png"
-            ], 
-            "iter_00000_step_00004_screenshot.png": [
-                "iter_00000_step_00004_screenshot.png", 
-                "iter_00000_step_00005_screenshot.png", 
-                "iter_00000_step_00007_screenshot.png"
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_screenshot.png", 
+                "iter_00000_step_00002_screenshot.png"
             ], 
             "iter_00000_step_00006_screenshot.png": [
                 "iter_00000_step_00006_screenshot.png"
+            ], 
+            "iter_00000_step_00007_screenshot.png": [
+                "iter_00000_step_00007_screenshot.png", 
+                "iter_00000_step_00004_screenshot.png", 
+                "iter_00000_step_00005_screenshot.png"
             ], 
             "iter_00000_step_00008_screenshot.png": [
                 "iter_00000_step_00008_screenshot.png", 
                 "iter_00000_step_00009_screenshot.png"
             ], 
-            "iter_00000_step_00010_screenshot.png": [
-                "iter_00000_step_00010_screenshot.png", 
+            "iter_00000_step_00011_screenshot.png": [
                 "iter_00000_step_00011_screenshot.png", 
-                "iter_00000_step_00017_screenshot.png", 
-                "iter_00000_step_00018_screenshot.png"
+                "iter_00000_step_00018_screenshot.png", 
+                "iter_00000_step_00010_screenshot.png", 
+                "iter_00000_step_00017_screenshot.png"
             ], 
             "iter_00000_step_00012_screenshot.png": [
                 "iter_00000_step_00012_screenshot.png"
@@ -21182,9 +21182,9 @@
                 "iter_00000_step_00020_screenshot.png", 
                 "iter_00000_step_00021_screenshot.png"
             ], 
-            "iter_00000_step_00022_screenshot.png": [
-                "iter_00000_step_00022_screenshot.png", 
-                "iter_00000_step_00023_screenshot.png"
+            "iter_00000_step_00023_screenshot.png": [
+                "iter_00000_step_00023_screenshot.png", 
+                "iter_00000_step_00022_screenshot.png"
             ], 
             "iter_00000_step_00024_screenshot.png": [
                 "iter_00000_step_00024_screenshot.png", 
