@@ -1,0 +1,15 @@
+[
+    "android.view.View", 
+    "android.view.ViewGroup", 
+    "android.widget.Button", 
+    "android.widget.FrameLayout", 
+    "android.widget.ImageButton", 
+    "android.widget.ImageView", 
+    "android.widget.LinearLayout", 
+    "android.widget.TextView", 
+    "androidx.appcompat.widget.g0", 
+    "androidx.cardview.widget.CardView", 
+    "androidx.drawerlayout.widget.DrawerLayout", 
+    "androidx.recyclerview.widget.RecyclerView", 
+    "TemplateMatchElement"
+]
